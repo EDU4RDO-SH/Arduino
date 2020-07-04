@@ -12,7 +12,7 @@ Arduino IDE [ide](https://www.arduino.cc/en/Main/Software)
 
 ## Author
 
-* **Ed's Lab** - *Initial work* - [author](eshmk1994@gmail.com)
+* **Ed's Lab** - *Initial work* - [author](https://github.com/EDU4RDO-SH)
 
 
 ## License
